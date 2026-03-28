@@ -6,6 +6,8 @@ const gameNames = [
     "SoulSilver",
     "Emerald",
     "RandomEmerald",
+    "Sapphire",
+    "Ruby",
     "FireRed",
     "RandomRed",
     "Diamond",

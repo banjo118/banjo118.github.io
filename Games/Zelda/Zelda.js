@@ -2,6 +2,8 @@ const gamePane = document.getElementById("gameGrid");
 const gameNames = [
     "Zelda1",
     "Zelda2",
+    "MinishCap",
+    "LinkToThePast",
     "ZeldaOoT",
     "ZeldaMM"
 ];
