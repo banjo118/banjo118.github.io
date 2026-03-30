@@ -3,8 +3,7 @@ const gameNames = [
     "Fnaf1",
     "Fnaf2",
     "Fnaf3",
-    "Fnaf4",
-    "Fnae"
+    "Fnaf4"
 ];
 
 function gameImage(gameName) {
